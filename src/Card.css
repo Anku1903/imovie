@@ -1,0 +1,29 @@
+.cardbox{
+height: 300px;
+width: 400px;
+padding: 6px;
+color: white;
+transition: transform 100ms ease-in;
+justify-content: space-evenly;
+}
+.cardbox:hover{
+    transform: scale(1.09);
+}
+.cardbox > img{
+    width: 400px;
+    height: 200px;
+    object-fit: contain;
+}
+.cardbox > h2{
+    padding-top: 10px;
+    margin-left: 89px;
+}
+.cardbox .last_pera{
+    margin-left: 90px;   
+}
+.pera{
+    margin-left: 90px;
+}
+.mar{
+    margin-left: 8px;
+}

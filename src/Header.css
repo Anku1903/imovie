@@ -1,0 +1,55 @@
+.header{
+    color: white;
+    background-color: black;
+    display: flex;
+    padding: 0px;
+    justify-content: space-between;
+    align-items: center;
+    overflow-x: scroll;
+
+}
+.header_icons{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.header::-webkit-scrollbar{
+    display: none;
+}
+.header{
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.icons{
+    display: flex;
+    cursor: pointer;
+    
+    width: 100px;
+    flex-direction: column;
+}
+.icons > .MuiSvgIcon-root{
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 30px;
+}
+.icons > p{
+    display: none;
+    margin-right: auto;
+    margin-left: auto;
+    text-transform: capitalize;
+    font-size: small;
+    letter-spacing: 3px;
+}
+.icons:hover > p{
+    display: inline;
+    transition: .2s;
+}
+.icon_active > p{
+    display: inline-flex !important;
+}
+.header > img{
+    object-fit: cover;
+    height: 80px;
+}
