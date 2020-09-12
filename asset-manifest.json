@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/imovie/static/css/main.ec7aa0cb.chunk.css",
+    "main.js": "/imovie/static/js/main.0e317799.chunk.js",
+    "main.js.map": "/imovie/static/js/main.0e317799.chunk.js.map",
+    "runtime-main.js": "/imovie/static/js/runtime-main.672413b9.js",
+    "runtime-main.js.map": "/imovie/static/js/runtime-main.672413b9.js.map",
+    "static/js/2.cc6b9938.chunk.js": "/imovie/static/js/2.cc6b9938.chunk.js",
+    "static/js/2.cc6b9938.chunk.js.map": "/imovie/static/js/2.cc6b9938.chunk.js.map",
+    "index.html": "/imovie/index.html",
+    "precache-manifest.2dd42e3d02a3c813b36c43d5bb088e29.js": "/imovie/precache-manifest.2dd42e3d02a3c813b36c43d5bb088e29.js",
+    "service-worker.js": "/imovie/service-worker.js",
+    "static/css/main.ec7aa0cb.chunk.css.map": "/imovie/static/css/main.ec7aa0cb.chunk.css.map",
+    "static/js/2.cc6b9938.chunk.js.LICENSE.txt": "/imovie/static/js/2.cc6b9938.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.672413b9.js",
+    "static/js/2.cc6b9938.chunk.js",
+    "static/css/main.ec7aa0cb.chunk.css",
+    "static/js/main.0e317799.chunk.js"
+  ]
+}
